@@ -1,0 +1,26 @@
+deltarune = {
+"hi": ["Howdy!"],
+"howdy": ["Hi"],
+"how are you": ["Jaroning!"],
+"kris": ["They've grown so much!"],
+"noelle": ["Proceed."],
+"susie": ["Check out her rude buster!!"],
+"ralsei": ["So fluffy!!"],
+"flowery": ["Hey! It's me! Flowery!"],
+"kawkaw": ["Uelleleleleleelellelelelelelel"],
+"jockington": ["He's growing a beard! Or so the prophecy said!"],
+"prophecy": ["This thing sucks!"],
+"jarona": ["Jarona!"],
+"fight": ["And one more to defend!"],
+"san": ["Here I come, san francisco!!!!"],
+"sans": ["What a predictable creature!"],
+"me": ["Yes, predictable creature!"],
+"me?": ["What a predictable creature! Of course, you!"],
+"catty": ["Which one?"],
+"undyne": ["She's gotten guts!"],
+"asgore": ["Ran over dess fr"],
+"fuck you": ["Hey! Be muted!"],
+"toriel": ["Have you found some ketchup?"]
+
+
+}
