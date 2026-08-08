@@ -83,8 +83,8 @@ Generating an answer...""")
             print("""
 
 Generating a worse answer...""")
-        time.sleep(2)
-        print(random.choice(random_answers))
+            time.sleep(2)
+            print(random.choice(random_answers))
 
     elif mode == 2:
         time.sleep(2)
