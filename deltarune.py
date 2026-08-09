@@ -20,7 +20,14 @@ deltarune = {
 "undyne": ["She's gotten guts!"],
 "asgore": ["Ran over dess fr"],
 "fuck you": ["Hey! Be muted!"],
-"toriel": ["Have you found some ketchup?"]
+"toriel": ["Have you found some ketchup?"],
+"pink": ["The bravest of 7 asgore's colored flowers!"],
+"aqua": ["Amazing and funny girl! Just like my JARONA!"],
+"green": ["She speaks in hands."],
+"seth": ["She's a fan of this avian geek! Ain't it funny?"],
+"orange": ["Atleast, she tries"],
+"blue": ["What a predictable creature x2!"],
+"yellow": ["What an... unpredictable creature!"]
 
 
 }

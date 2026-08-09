@@ -39,5 +39,17 @@ plus = {
 "write a code": ["--Just use while True: print('bot's cool') it's gonna work ya"],
 "write an essay": ["--Once upon a time, a legend was told, whispered from mouth to- LMFAOOO YA FR BELIEVE THIS???"],
 "kyu-kurarin": ["--Relatable"],
+"hi!": ["Heya! Hru?"],
+"how are you?": ["I'm all good! Wbu?"],
+"i am good": ["Nice! Anything else?"],
+"kazakhstan": ["amazing country, isn't it?"],
+"freddy": ["Fnaf world 2 got announced, yas!"],
+"windy": ["Windy31? A freaking legend!"],
+"pink": ["The bravest of asgore's 7 colored flowers!"],
+"best ai": ["In my opinion it's claude!"],
+"best ai?": ["Claude ofc!"],
+"github": ["Thanks for letting me exist, github!"],
+"gpa": ["why'd you ask me THAT? Heh, anyways?"]
+
 
 }

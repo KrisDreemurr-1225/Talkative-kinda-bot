@@ -22,7 +22,18 @@ lite = {
 "tigra": ["--It is... it was such an amazing cat.."],
 "hard": ["--A creator of mine! No, not really, it's Kris, but... you got it."],
 "russian": ["--Да, чем могу помочь?"],
-"faceit": ["--I don't need it to be a pro"]
+"faceit": ["--I don't need it to be a pro"],
+"hi!": ["Heya!"],
+"how are you?": ["I'm all good, thanks!"],
+"i am good too": ["Noice!"],
+"lake": ["Lake skip!"],
+"weather": ["Sunny!"],
+"dream": ["follow your dream despite being a weirdo in everyone's eyes!"],
+"me": ["you?"],
+"i am cool!": ["Yes u are!!"],
+"kris": ["Lemme call him... he hasnt responded lol"],
+"no one cares": ["true. count only on yourself"]
+
 
 
 }

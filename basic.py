@@ -21,7 +21,17 @@ basic = {
 "disco": ["Here I come san frandisco!!!"],
 "ak": ["M4A1-S"],
 "money": ["Nanana!"],
-"tds": ["Cool game!"]
+"tds": ["Cool game!"],
+"hi!": ["HI!"],
+"how are you?": ["Good! You?"],
+"i am good": ["Nice!"],
+"i am good too": ["Nice2x!"],
+"drown": ["You should drown with me~"],
+"weirdo": ["No, I'm not"],
+"2+2": ["5, ofc!"],
+"proceed": ["Nah"],
+"basic": ["Ik im bad af ,sorry"],
+"london": ["Wish I'll live there!"]
 
 
 }

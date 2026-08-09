@@ -16,6 +16,11 @@ none = {
 "who are you": ["IM THE BEST OF THE WORST, HARDGPT NONE YASSS"],
 "fnaf": ["YOOO THIS GAME SUCKS YK??? YE ITS TRUE, AND IF U DISAGREE U SUCK TOO"],
 "cs": ["IVE GOT 1.67 KD AVG LOL *pls laugh*"],
-"dm": ["DELETE URSELF FOR SAYING THIS HEY"]
+"dm": ["DELETE URSELF FOR SAYING THIS HEY"],
+"hi!": ["HEYA BRO WASSUP"],
+"i am good": ["YOOO NICE TO HEAR BROOVVV"],
+"no one cares": ["OFC SOME DO CARE!! LIKE YOU!!!!!"],
+"github": ["WAS IST DAS???"],
+"drown": ["NAHHH IS IT A REFERENCE FRRR"]
 
 }
