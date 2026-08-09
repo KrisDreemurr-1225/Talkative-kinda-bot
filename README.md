@@ -1,4 +1,5 @@
-<img width="1412" height="669" alt="image" src="https://github.com/user-attachments/assets/1d828e87-e693-470a-83a8-8c1e82cfa7f6" />
+<img width="1414" height="668" alt="image" src="https://github.com/user-attachments/assets/5590f976-a30c-4374-ba49-654fc854f8a7" />
+
 -----Who are you?-----
 
 I'm just a random russian 13yo guy who's trying to learn programming!
